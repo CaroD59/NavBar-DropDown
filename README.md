@@ -1,3 +1,9 @@
+![nav](https://user-images.githubusercontent.com/76882345/122746785-a629a900-d28a-11eb-8723-77127175e1bd.png)
+
+![nav2](https://user-images.githubusercontent.com/76882345/122746900-c48fa480-d28a-11eb-8142-1adea08e41cc.png)
+
+![nav3](https://user-images.githubusercontent.com/76882345/122746911-c6596800-d28a-11eb-8c2b-753ddfb95288.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
